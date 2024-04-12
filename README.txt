@@ -1,8 +1,4 @@
-
-Name: Lalithanjana Kollipara
-G#: G01386376
-
-CS584 Data Mining Project 1: Sentiment Analysis of Baby Product Reviews
+Sentiment Analysis of Baby Product Reviews
 
 In order to run the code on Jupyter Notebook, please make sure the below packages are installed:
 numpy
